@@ -39,7 +39,7 @@
 
 
 ##Project collaboration area
-- Auto generated site
+- Auto generated sites
 	- List & libraries from project parts
 	- Permissions
 	- Standard documents & list items
