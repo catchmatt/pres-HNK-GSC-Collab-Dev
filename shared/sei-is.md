@@ -6,4 +6,4 @@
 
 [steve.dalby@sei-is.be](mailto:steve.dalby@sei-is.be)
 
-[http://stevedalby.com / about-2](http://stevedalby.com/about-2)
+[http://stevedalby.com / about-2](http://www.stevedalby.com/about-2)
