@@ -1,4 +1,4 @@
-#GSC Collaboration project - how to run the automation?
+#GSC Collaboration project - how best to run the automation?
 > *View the presentation here [catchmatt.github.io / pres-HNK-GSC-Collab-Dev](http://catchmatt.github.io/pres-HNK-GSC-Collab-Dev)*
 
 ###Abstract
