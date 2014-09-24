@@ -1,34 +1,38 @@
 ##Overview
-- Understand the requirements impacting the decisions.
-- Establish the options available to deliver the solution.
-- Agree on the best option(s).
-- Assign ownership of and set a timetable for any resulting actions.
+- Understand requirements driving decisions.
+- Establish options available to deliver solutions.
+- Agree on best option(s).
+- Assign ownership of and set a timetable for resulting actions.
 
 
 
 ##GSC Collaboration
 - Project information management area
-  - Define project templates (blue prints for creating project environments)
-  - Project creation & closure
-  - Aggregate project information - up to 200 projects per year
-  - Standard documents, risks, issues, tasks, etc.
+	- Create blue prints for creating project environments
+	- Project creation & closure
+	- Aggregate information - up to 200 projects per year
+	- Standard documents, risks, issues, tasks, etc.
 - Area for each project team to collaborate
-  - Documents & list data
-  - Permissions & security
-  - Exchange documents with customer (OpCo) & supplier
+	- Documents & list data
+	- Permissions & security
+	- Exchange documents with customer (OpCo) & supplier
 - Customer area
-  - Regions & OpCos
-  - Exchange documents with project team
+	- Regions & OpCos
+	- Exchange documents with project team
 - Supplier area
-  - Exchange documents with project team
+	- Exchange documents with project team
 - Project records area
+
+
+![Logical Architecture](img/gsc-la.png)
 
 
 
 ##Project Information Management area
-- Full control over payload
-- Standard response type
-- Consumers can use any technology on any platform
+- Site collection
+- Projects dashboard
+- Full trust code
+	- Creating sites or generating scripts
 
 
 
