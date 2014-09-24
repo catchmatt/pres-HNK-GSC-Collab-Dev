@@ -1,23 +1,31 @@
-Overview
-========
-- [SharePoint 2013 REST API](#sharepoint-2013-rest-api)
-- [Introducing BreezeJS](#introducing-breezejs---wwwbreezejscom)
-- [So, How to Set it Up?](#so-how-to-set-it-up)
-- [What's Next for BreezeJS & SharePoint?](#whats-next-for-breezejs--sharepoint)
+##Overview
+- Understand the requirements impacting the decisions.
+- Establish the options available to deliver the solution.
+- Agree on the best option(s).
+- Assign ownership of and set a timetable for any resulting actions.
 
 
 
-SharePoint 2013 REST API
-========================
-- Introduced with read/write support for lists in SharePoint 2010
-  - `http://intranet.contoso.com/_layouts/ListData.svc`
-- Dramatically expanded in SharePoint 2013 to support more than lists
-- Based on [OData v3.0](http://www.odata.org/documentation/odata-version-3-0/) but contains some oddities & inconsistencies
+##GSC Collaboration
+- Project information management area
+  - Define project templates (blue prints for creating project environments)
+  - Project creation & closure
+  - Aggregate project information - up to 200 projects per year
+  - Standard documents, risks, issues, tasks, etc.
+- Area for each project team to collaborate
+  - Documents & list data
+  - Permissions & security
+  - Exchange documents with customer (OpCo) & supplier
+- Customer area
+  - Regions & OpCos
+  - Exchange documents with project team
+- Supplier area
+  - Exchange documents with project team
+- Project records area
 
 
 
-SharePoint REST API Advantages
-------------------------------
+##Project Information Management area
 - Full control over payload
 - Standard response type
 - Consumers can use any technology on any platform
