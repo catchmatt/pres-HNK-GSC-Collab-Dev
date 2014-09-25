@@ -60,7 +60,9 @@
 ##Customer (OpCo) collaboration area
 - Region & OpCo structure
 	- Security & permissions
-- Possibly auto-generated
+- Auto-generated elements?
+	- Sites?
+	- Libraries?
 - Exchange documents with project teams
 
 
@@ -70,7 +72,9 @@
 
 
 ##Supplier collaboration area
-- Possibly auto-generated
+- Auto-generated?
+	- Sites?
+	- Libraries?
 - Exchange documents with project teams
 - Security & permissions
 
@@ -86,8 +90,9 @@
 
 
 ##The best architecture?
-- Web application?
-- Site collections?
+- New web application required?
+- What site collections?
+- Auto site creation?
 
 
 
