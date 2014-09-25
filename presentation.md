@@ -6,6 +6,10 @@
 
 
 
+##Logical architecture
+![Logical Architecture](img/gsc-la.png)
+
+
 ##GSC Collaboration
 - Project information management area
 	- Create blue prints for creating project environments
@@ -24,10 +28,6 @@
 - Project records area
 
 
-###Logical architecture
-![Logical Architecture](img/gsc-la.png)
-
-
 
 ##Project information management area
 - Site collection
@@ -35,6 +35,10 @@
 	- Client side JavaScript
 - **Full trust code**
 	- Creating sites or generating scripts
+
+
+##Custom code
+![Custom code](img/CustomCode.png)
 
 
 
@@ -48,6 +52,10 @@
 	- HTTP handler (project data WS)
 
 
+##Custom code
+![Custom code](img/CustomCode.png)
+
+
 
 ##Customer (OpCo) collaboration area
 - Region & OpCo structure
@@ -56,11 +64,19 @@
 - Exchange documents with project teams
 
 
+##Custom code
+![Custom code](img/CustomCode.png)
+
+
 
 ##Supplier collaboration area
 - Possibly auto-generated
 - Exchange documents with project teams
 - Security & permissions
+
+
+##Custom code
+![Custom code](img/CustomCode.png)
 
 
 

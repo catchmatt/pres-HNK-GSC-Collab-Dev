@@ -1,7 +1,12 @@
-![Global Supply Chain](shared/heineken.png)
+![Heineken](shared/heineken.png)
 
 ##Global Supply Chain
 
-Joost Roldann
+Joost Roldaan
 
-Bert 
+Bert Adam
+
+##GIS
+Herbert van den Heuvel
+
+Stijn de Bekker
