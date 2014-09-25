@@ -82,3 +82,14 @@
 
 ##Project records repository
 - Records center site collection(s)
+
+
+
+##The best architecture?
+- Web application?
+- Site collections?
+
+
+
+##Development / test environment?
+- Inside the Heineken network
